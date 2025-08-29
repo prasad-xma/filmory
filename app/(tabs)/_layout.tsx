@@ -21,14 +21,14 @@ const _layout = () => {
         <Tabs.Screen
             name='search'
             options={{
-                title: 'search',
+                title: 'Search',
                 headerShown: false
             }}
         />
          <Tabs.Screen
             name='profile'
             options={{
-                title: 'profile',
+                title: 'Profile',
                 headerShown: false
             }}
         />
